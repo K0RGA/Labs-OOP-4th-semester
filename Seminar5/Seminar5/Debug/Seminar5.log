@@ -1,0 +1,4 @@
+﻿  Seminar5.cpp
+C:\Users\nikit\source\repos\Seminar5\Seminar5\Seminar5.cpp(33,24): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\nikit\source\repos\Seminar5\Seminar5\Seminar5.cpp(36,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikit\source\repos\Seminar5\Seminar5\Seminar5.cpp(58,26): error C2059: синтаксическая ошибка: ;
