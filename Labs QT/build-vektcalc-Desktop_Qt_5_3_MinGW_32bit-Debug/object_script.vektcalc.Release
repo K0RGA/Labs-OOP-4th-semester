@@ -1,0 +1,14 @@
+INPUT(
+./release\coordplanescene.o
+./release\coordplaneview.o
+./release\graphicsvector.o
+./release\main.o
+./release\mainwindow.o
+./release\newvectordialog.o
+./release\reversedtext.o
+./release\moc_coordplanescene.o
+./release\moc_coordplaneview.o
+./release\moc_mainwindow.o
+./release\moc_newvectordialog.o
+./release\moc_reversedtext.o
+);
